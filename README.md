@@ -1,10 +1,10 @@
-# PhoneGap-Test
-
-Test Bàsic de PhoneGap
+# una APP pel movil adripolBP
+adrian borreguero sanchez
+pol prado diaz
 29/11/2015
 
 
-Informàtica 4t ESO 2015 2016
+Informàtica 4t A ESO 2015 2016
 INS Numància 
 Santa Coloma de Gramenet
 
